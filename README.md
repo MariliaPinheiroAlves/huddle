@@ -13,6 +13,7 @@ Execução e Visualização
 Este projeto não requer execução, pois é uma página estática. Para visualizá-lo, basta abrir o arquivo index.html em qualquer navegador web.
 
 <br>
+<br>
 <i>Autor: Marília Pinheiro Alves
-
+  
 Data: 21.08.2023
