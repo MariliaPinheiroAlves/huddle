@@ -11,9 +11,3 @@ O objetivo principal deste projeto foi praticar e consolidar os conceitos de HTM
 <b>CSS 3:</b> Utilizado para aplicar estilos e definir a aparência da página.
 Execução e Visualização
 Este projeto não requer execução, pois é uma página estática. Para visualizá-lo, basta abrir o arquivo index.html em qualquer navegador web.
-
-<br>
-<br>
-<i>Autor: Marília Pinheiro Alves
-  
-Data: 21.08.2023
